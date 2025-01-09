@@ -13,3 +13,10 @@ themeToggle.addEventListener("change", () => {
     }
 
 });
+
+
+
+// function toggleNav() {
+//     const links = document.querySelector('.nav .links');
+//     links.classList.toggle('active');
+//   }
