@@ -70,9 +70,19 @@
   /* About Text */
   .left {
     width: 60%;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     font-weight: 500;
     line-height: 1.8;
+    font-family: Georgia;
+  }
+  .left span{
+    font-family: Georgia;
+    font-size: 1.3rem;
+    color: rgb(15, 200, 233);
+    
+  }
+  .left span:hover{
+    color: #e100ff;
   }
   
   /* Section Heading */
